@@ -1,7 +1,9 @@
 Express3 Handlebars
 ===================
 
-A [Handlebars][] view engine for [Express][] which doesn't suck.
+A [Handlebars][] view engine for [Express][] which doesn't suck.  
+
+( Handlebars Version updated to 2.x )
 
 [![Dependency Status](https://david-dm.org/ericf/express3-handlebars.png)][status]
 
